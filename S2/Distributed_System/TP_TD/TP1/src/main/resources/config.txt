@@ -1,0 +1,2 @@
+dao.TarifDomestique
+dao.TarifIndustriel

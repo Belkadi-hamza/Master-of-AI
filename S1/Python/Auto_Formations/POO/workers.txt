@@ -1,0 +1,6 @@
+Islam - Programming Instructor
+Pikachu - Frontend Developer
+Subzero - Backend Developer
+Sonic - Business Analyst
+Tails - Data Analyst
+Eren - Data Engineer
