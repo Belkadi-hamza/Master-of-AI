@@ -1,0 +1,14 @@
+windows server 2012
+Administrator
+Qwert@12345
+
+domain:
+FSBM.local
+Qwert@12345
+
+user:
+h.belkadi@FSBM.local
+Qwert@12345
+
+
+win+R ==> diskmgmt.msc (for display disks)

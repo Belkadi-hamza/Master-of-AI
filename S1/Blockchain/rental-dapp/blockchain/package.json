@@ -1,0 +1,29 @@
+{
+  "name": "rental-dapp-advanced-blockchain",
+  "version": "1.0.0",
+  "description": "Advanced blockchain rental contract with Truffle",
+  "main": "index.js",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "reset": "truffle migrate --reset",
+    "test": "truffle test"
+  },
+  "keywords": [
+    "blockchain",
+    "truffle",
+    "solidity",
+    "rental",
+    "dapp"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^17.3.1",
+    "ethers": "^6.16.0"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}
