@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-venv/
-.env
-recommender_model.pkl

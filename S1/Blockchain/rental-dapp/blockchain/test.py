@@ -1,3 +1,0 @@
-s = "6716845b29644f48909099207b041533b8ffd496e02fe93677abc3f78eadbd3f"
-s2 = ""
-print(len(s))
