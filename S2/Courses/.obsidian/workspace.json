@@ -1,0 +1,260 @@
+{
+  "main": {
+    "id": "0f9660593b4fe837",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a16eb5ee30ce661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e92df5a3802a87e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimization/TP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TP"
+            }
+          },
+          {
+            "id": "bf16051a18722eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optimization/TP_Correction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TP_Correction"
+            }
+          },
+          {
+            "id": "a8f4112a6f15c582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes Python"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a73b516f9f07bf0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "98aadb598524fa8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1038e6691041cc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0caf53f6c4463281",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6323a61c7e0b8d8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6bfcbe63111cb01f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c461aeccdd702a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "223b7172af0c4d47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Partie 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Partie 3"
+            }
+          },
+          {
+            "id": "ea31dcb2845cfb48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Partie 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Partie 3"
+            }
+          },
+          {
+            "id": "b0b0e5079997023b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "073e5a52489d2248",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "de4f99db23d7eb7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Partie 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Partie 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bf16051a18722eaa",
+  "lastOpenFiles": [
+    "Optimization/TP.md",
+    "Notes Python.md",
+    "Optimization/TP_Correction.md",
+    "Optimization/Exercices.md",
+    "Optimization/exercice 2.md",
+    "Optimization/Coerrection.md",
+    "Optimization/Seance 13.md",
+    "Optimization/Seance 11.md",
+    "Optimization/Seance 10.md",
+    "Optimization/Seance 9.md",
+    "Optimization/Seance 8.md",
+    "Optimization/Seance 7.md",
+    "Optimization/cours.md",
+    "algo cours.md",
+    "Optimization/main_cours.md",
+    "Optimization/algo cours.md",
+    "cours.md",
+    "main_cours.md",
+    "Optimization/Seance 6.md",
+    "Optimization/Seance 5.md",
+    "Optimization/Seance 12.md",
+    "Optimization/Seance 2.md",
+    "Optimization/Seance 4.md",
+    "Optimization/Seance 3.md",
+    "Optimization/img/img1.png",
+    "Optimization/img",
+    "Optimization/img/img7.png",
+    "Optimization/img/img6.png",
+    "Optimization/img/img5.png",
+    "Optimization/img/img4.png",
+    "Optimization/img/img3.png",
+    "Optimization/img/img2.png",
+    "seance 3_26.pdf",
+    "Entrepreneuriat/Pasted image 20260705143832.png",
+    "Optimization",
+    "ML",
+    "Entrepreneuriat/3e.png",
+    "Entrepreneuriat/decouverte entrp.md",
+    "Distributed Sytem/Partie 2.md",
+    "Entrepreneuriat",
+    "Distributed Sytem"
+  ]
+}
