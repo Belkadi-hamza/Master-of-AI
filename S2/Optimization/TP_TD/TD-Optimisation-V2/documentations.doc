@@ -1,0 +1,43 @@
+import sympy as sp
+x, y = sp.symbols('x y')
+f = x**2 + 3*x + 1
+g = x**2*y + y**3
+
+# Derive 1
+derivee_1 = sp.diff(f, x)
+# Derive 2
+derivee_2 = sp.diff(f, x, 2)
+# Dérivées partielles
+dg_dx = sp.diff(g, x)
+dg_dy = sp.diff(g, y)
+# Développement limité
+dl = sp.series(f, x, 0, 5) # point = 0 , ordre =5
+dl_sans_reste = sp.series(f, x, 0, 5).removeO()
+# Limites
+limite = sp.limit(f, x, 0)
+# Limite à l’infini
+limite = sp.limit(f, x, sp.oo)
+# Limite à gauche et à droite
+limite_droite = sp.limit(f, x, 0, dir='+')
+limite_gauche = sp.limit(f, x, 0, dir='-')
+# Intégrales
+integrale = sp.integrate(f, x)
+Intégrale définie
+integrale_definie = sp.integrate(x**2, (x, 0, 1))
+# Simplification
+simplifie = sp.simplify(f)
+# Développement algébrique
+expr = (x + 2)**3
+developpe = sp.expand(expr)
+# Factorisation
+expr = x**2 - 5*x + 6
+factorise = sp.factor(expr)
+# Résolution d’équations
+equation = sp.Eq(x**2 - 5*x + 6, 0)
+solution = sp.solve(equation, x)
+# Systèmes d’équations
+eq1 = sp.Eq(x + y, 5)
+eq2 = sp.Eq(x - y, 1)
+solution = sp.solve((eq1, eq2), (x, y))
+# Substitution : f(2)
+valeur = f.subs(x, 2)
