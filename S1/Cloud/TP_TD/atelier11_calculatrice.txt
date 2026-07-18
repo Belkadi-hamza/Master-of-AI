@@ -1,3 +1,0 @@
-ngrok : http://127.0.0.1:4040/inspect/http
-Jenkins : http://localhost:8080/job/Calculatrice-Pipeline/configure
-repo : https://github.com/Belkadi-hamza/atelier11_calculatrice
